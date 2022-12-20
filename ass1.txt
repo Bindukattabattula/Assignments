@@ -1,0 +1,48 @@
+I have learned about the git repository where i have go through the git commands like:
+
+git commit: git commit -m "Hello, i have committed the file"
+
+git push: git push
+
+git add
+
+git clone
+
+I have learned about the how to run the node js and the following commands are:
+
+-- node -v (to start)
+-- npm -v
+
+I have learned about the react
+-- npm install create-react-app-g (g is nothing but a global where we can place our folder wherever we want)
+-- npm create-reart-app-g-playstore (Here the playstore is nothing but a app name that we want to create using the react)
+
+If we want to create an angular:
+
+-- ng new demo
+-- ng g c four
+-- ng serve 
+
+And, i have learned about the source files where all the code can be in the projects.
+
+I have learned about the pom.xml file where it is like the configuration file with the spring boot, spring framework dependency's and artifactID many more.
+
+
+I have learned about the .json files where  it is used for the angular , react, node js  dependency's.
+
+I have  learned about the mysql server  where:  how it can be connected with root and password, how the database will run
+
+I have learned about the maven like where we have to install the maven. How to use maven with the eclipse.
+
+I have learned about the port numbers like 4200 will be the angular by default, 3200 will be the react by default.
+
+
+
+
+
+
+
+
+
+
+
